@@ -1,6 +1,6 @@
 # ✨ Glory Luxe ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for health related based website in India
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -8,6 +8,9 @@ This is a web based application developed for health related based website in in
 **Project Link** - https://agreeable-rock-0444d4300.3.azurestaticapps.net/
 **project video demo link**-
 
+##Azure Technologies used for Project
+*Static Web Apps
+*Healthbot
 
 ## Features and Functionalities 😃
 
@@ -20,29 +23,23 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![Screenshot (22)](https://github.com/Sreeja12122002/project18/assets/124040855/318e3417-652f-436c-b532-8c8dd5ffc138)
 
-![Screenshot (17)](https://github.com/Sreeja12122002/project18/assets/124040855/4c59535c-9116-4f8e-b09e-971645b87c0e)
+![Screenshot (18)](https://github.com/Sreeja12122002/project18/assets/124040855/528bc058-6d32-42cf-9424-eb7cb4a37590)
 
+![Screenshot (18)](https://github.com/Sreeja12122002/project18/assets/124040855/82dcd421-7d20-430b-9612-8b2ff59d272f)
 
-   
+## Services -
 
-### About Us -
+![Screenshot (17)](https://github.com/Sreeja12122002/project18/assets/124040855/0e4b99e6-1010-49e4-b9e2-45a12e3f8851)
 
+![Screenshot (20)](https://github.com/Sreeja12122002/project18/assets/124040855/35d765da-3a1a-4690-92a2-ec193a1f7ff1)
 
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
+![Screenshot (21)](https://github.com/Sreeja12122002/project18/assets/124040855/f3a52480-7b28-4f18-b4eb-41fab090e4d5)
 
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
 - Bootstrap
