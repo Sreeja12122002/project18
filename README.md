@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in In
 
 
 **Project Link** - https://agreeable-rock-0444d4300.3.azurestaticapps.net/
-**project video demo link**-
+**project video demo link**-https://youtu.be/lKVxk8QduZk
 
 ##Azure Technologies used for Project
 *Static Web Apps
