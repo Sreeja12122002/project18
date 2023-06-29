@@ -27,7 +27,6 @@ This is a web based application developed for health related based website in In
 
 ![Screenshot (18)](https://github.com/Sreeja12122002/project18/assets/124040855/528bc058-6d32-42cf-9424-eb7cb4a37590)
 
-![Screenshot (18)](https://github.com/Sreeja12122002/project18/assets/124040855/82dcd421-7d20-430b-9612-8b2ff59d272f)
 
 ## Services -
 
