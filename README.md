@@ -10,6 +10,7 @@ This is a web based application developed for health related based website in In
 **project video demo link**-https://youtu.be/lKVxk8QduZk
 
 ##Azure Technologies used for Project
+
 *Static Web Apps
 *Healthbot
 
